@@ -1,0 +1,9 @@
+captum==0.7.0
+logomaker==0.8
+numpy==2.1.0
+pandas==2.2.2
+pytorch-lightning==2.4.0
+scikit-learn==1.5.1
+scipy==1.14.1
+torch==2.4.0
+torchmetrics==1.4.1
