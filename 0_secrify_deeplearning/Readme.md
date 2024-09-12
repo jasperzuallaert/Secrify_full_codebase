@@ -15,5 +15,5 @@ When you have a trained model, you can make predictions for any sequences. First
 
 Then, in the USER inputs cell, specify the prediction model(s) and the `.csv` file you just created. You can make a list of multiple prediction models, and the average predicted probabilities and saliency maps will then be reported.
 
-Note that different prediction models can operate on different scales. A model trained on the (imbalanced) old_naive dataset will produce values that are mostly in the 0~0.3 range, whereas the new dataset will yield models that predict mostly in the 0.2~0.8 range.
+Note that different prediction models can operate on different scales. A model trained on the (imbalanced) old_naive dataset will produce values that are mostly in the 0-0.3 range, whereas the new dataset will yield models that predict mostly in the 0.2-0.8 range.
 
